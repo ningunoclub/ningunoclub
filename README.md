@@ -1,9 +1,9 @@
 # **tech nerd teacher** with a love for DJing, open-source, data privacy, and passionate disgust of subscriptions. 
 
 ### 🎓 What I'm working on right now
-I am currently working on my Master's thesis focusing on gamification in English Language Teaching[cite: 1]. The core objective of my research is to identify effective game archetypes and develop an open-source learning platform specifically designed for EFL educators[cite: 1]. 
+I am currently working on my Master's thesis focusing on gamification in English Language Teaching. The core objective of my research is to identify effective game archetypes and develop an open-source learning platform specifically designed for EFL educators. 
 
-While my initial research proposal involved building a platform entirely from scratch[cite: 1], I recently pivoted to forking the [ClassQuiz](https://github.com/mawoka-myblock/ClassQuiz) repository. I am currently rewriting its frontend from Svelte into a React and TypeScript application. This aligns with my original tech stack goals[cite: 1], but if I'm being completely honest, it's mostly because I don't know Svelte at all and I am an absolute sucker for ready-to-use React UI components that make my life easier lol.
+While my initial research proposal involved building a platform entirely from scratch, I recently pivoted to forking the [ClassQuiz](https://github.com/mawoka-myblock/ClassQuiz) repository. I am currently rewriting its frontend from Svelte into a React and TypeScript application. This aligns with my original tech stack goals, but if I'm being completely honest, it's mostly because I don't know Svelte at all and I am an absolute sucker for ready-to-use React UI components that make my life easier lol.
 
 ### What I can 
 <!-- Badges are customized with &logoColor=white as requested -->
@@ -17,7 +17,7 @@ While my initial research proposal involved building a platform entirely from sc
 ### My Stuff
 * **Laptop:** Daily driving a T14s with fedora
 * **PC:** Ryzen 7 7800X3D, NVIDIA 5070 Ti and 128GB of DDR5 (which I could now sell for a downpayment on a house)
-* **Homelab:** Ubuntu (I know its basic, but I love it)
+* **Homelab:** Ubuntu (I know, sue me)
 * **OpenClaw:** I fell for the mac mini hype...
 
 ### 🔌 Hardware & IoT
