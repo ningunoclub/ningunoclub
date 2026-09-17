@@ -16,7 +16,8 @@ While my initial research proposal involved building a platform entirely from sc
 
 ### My Stuff
 * **Laptop:** Daily driving a T14s with fedora
-* **PC:** Ryzen 7 7800X3D, NVIDIA 5070 Ti and 128GB of DDR5 (which I could now sell for a downpayment on a house)
+* **PC:** Win11 (not on linux, f u kernel level anticheat)
+   Ryzen 7 7800X3D, NVIDIA 5070 Ti and 128GB of DDR5 (which I could now sell for a downpayment on a house)
 * **Homelab:** Ubuntu (I know, sue me)
 * **OpenClaw:** I fell for the mac mini hype...
 
