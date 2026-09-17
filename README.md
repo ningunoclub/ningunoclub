@@ -22,4 +22,4 @@ While my initial research proposal involved building a platform entirely from sc
 * **OpenClaw:** I fell for the mac mini hype...
 
 ### 🔌 Hardware & IoT
-When I'm not writing code, I tinker with an **ESP32**. My primary hobby consists of "upgrading" the flat with smart features to everyday objects that absolutely no one asked to be smart. My roommates are thrilled (they aren't)
+When I'm not writing code, I tinker with an **ESP32**. My primary hobby consists of "upgrading" the flat with smart features to stuff that absolutely no one asked to be smart. My roommates are thrilled (they aren't)
