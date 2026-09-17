@@ -23,7 +23,3 @@ While my initial research proposal involved building a platform entirely from sc
 
 ### 🔌 Hardware & IoT
 When I'm not writing code, I tinker with an **ESP32**. My primary hobby consists of "upgrading" the flat with smart features to everyday objects that absolutely no one asked to be smart. My roommates are thrilled (they aren't)
-
-### 📊 Stats
-<!-- Replace YOUR_USERNAME with your actual GitHub username -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ningunoclub&show_icons=true&theme=dark&hide_border=true&bg_color=121212&title_color=ffffff&icon_color=ffffff&text_color=ffffff)
