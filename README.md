@@ -16,6 +16,7 @@ While my initial research proposal involved building a platform entirely from sc
 
 ### My Stuff
 * **Laptop:** Daily driving a T14s with fedora
+* **Work:** Have to use a mac, comes in handy for swift dev work though :)
 * **PC:** Win11 (not on linux, f u kernel level anticheat)
    Ryzen 7 7800X3D, NVIDIA 5070 Ti and 128GB of DDR5 (which I could now sell for a downpayment on a house)
 * **Homelab:** Ubuntu (I know, sue me)
